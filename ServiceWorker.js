@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-Webgl-Test-1.0";
 const contentToCache = [
-    "Build/test-webgl-unity-6.loader.js",
-    "Build/test-webgl-unity-6.framework.js",
-    "Build/test-webgl-unity-6.data",
-    "Build/test-webgl-unity-6.wasm",
+    "Build/b4ffb41359460cecabe701fb993b5bbc.loader.js",
+    "Build/3829a87cb56be37eec88c993a369cf2a.framework.js",
+    "Build/6ff8c589939f12108ce931d911fa76e0.data",
+    "Build/49bcb8d4e18645503cd57402ecf65c4f.wasm",
     "TemplateData/style.css"
 
 ];
